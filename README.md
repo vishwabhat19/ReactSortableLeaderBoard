@@ -1,3 +1,9 @@
+# ReactJS Sortable Leaderboard
+
+This project presents a table with four columns : Age, Rank, Points, Name and the data can be sorted by any of these four parameters by click of the button.
+The change takes place immediately and the rows are rearranged and presented.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
